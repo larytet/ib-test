@@ -38,8 +38,11 @@ Leverage = Index Value x Ratio / Instrument Price
 
 9.5=40*ratio/4.2
 ratio=(leverag/index valeu_)*price
+
 ratio=(9.5/40)*4.2=1
+
 intirn=(40-36)*1=4
+
 
 
 Leverage = 45 * 1 / (4.2+5)
